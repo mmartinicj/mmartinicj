@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey 👋 my name is Mirko Martinic,
 
-<!--
-**mmartinicj/mmartinicj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a psychologist with experience as research assistant in psychology and neuroscience. I also have experience as statistical and methodological advisor for grad thesis in health and social sciences.
 
-Here are some ideas to get you started:
+- ⌨ Working as Research Assistant at **Instituto de Estudios Avanzados en Educación**
+- 💻️ Working as Research Assistant at **Clínica Psiquiátrica Universitaria de la Universidad de Chile**
+- 🌱 Currently studying for a ** Master's degree in Data Science at Universidad de Chile**
+- 💬 Ask me about: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 🛠️
+
+Programming Languages
+
+![R](https://img.shields.io/badge/R-red?style=flat-square&logo=R&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+
+Otros
+
+<img src="https://coinvote.cc/user_data/coin_logo/bf8e0cbf407fd202118c50998083a686.png" alt="drawing" width="20"/> Cheems.
