@@ -12,7 +12,8 @@ I'm a psychologist with experience as research assistant in psychology and neuro
 Programming Languages
 
 ![R](https://img.shields.io/badge/R-red?style=flat-square&logo=R&logoColor=blue)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-EEGLAB-blue?style=flat)
 
 
