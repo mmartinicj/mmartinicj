@@ -3,7 +3,6 @@
 I'm a psychologist with experience as research assistant in psychology and neuroscience. I also have experience as statistical and methodological advisor for grad thesis in health and social sciences.
 
 - ⌨ Working as Research Assistant at **Instituto de Estudios Avanzados en Educación**
-- 💻️ Working as Research Assistant at **Clínica Psiquiátrica Universitaria de la Universidad de Chile**
 - 🌱 Currently studying for a **Master's degree in Data Science at Universidad de Chile**
 - 💬 Ask me about: 
 
