@@ -4,7 +4,7 @@ I'm a psychologist with experience as research assistant in psychology and neuro
 
 - ⌨ Working as Research Assistant at **Instituto de Estudios Avanzados en Educación**
 - 💻️ Working as Research Assistant at **Clínica Psiquiátrica Universitaria de la Universidad de Chile**
-- 🌱 Currently studying for a ** Master's degree in Data Science at Universidad de Chile**
+- 🌱 Currently studying for a **Master's degree in Data Science at Universidad de Chile**
 - 💬 Ask me about: 
 
 ## Tech Stack 🛠️
